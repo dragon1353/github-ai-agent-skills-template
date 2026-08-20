@@ -1,0 +1,4 @@
+interface:
+  display_name: "Release"
+  short_description: "Prepare, verify, and safely publish releases"
+  default_prompt: "Use $release to prepare this release, verify readiness, and produce release notes."
